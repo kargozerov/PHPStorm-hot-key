@@ -3,7 +3,7 @@
 # PhpStorm/WebStorm Горячие клавиши.
 
 Список самых часто-используемых горячих клавиш для IDE [PhpStorm](https://www.jetbrains.com/phpstorm/)/[WebStorm](https://www.jetbrains.com/webstorm/). Можно забирайте себе(Fork) или добавляйте в избранное(Star).
-Эта страница написана специально в дополнение к моему курсу по обзору данных редакторов на сайте сообщества сообщества [Loftblog](http://loftblog.ru/material/1-ustanovka-pervye-shagi/) и на [YouTube](https://www.youtube.com/playlist?list=PLY4rE9dstrJzAnXFt9m48Q0V5_2kVK1Qt) канале.
+
 Сочетания клавиш указаны установленные по умолчанию. Посмотреть назначенные и изменить их можно в меню Preferences > Keymap.
 Сочетания клавишь для Windows взяты с просторов интернета. Сам я работаю на Mac и проверить могу только на этой системе. Если Вы найдете ошибки, пожалуйста отправляйте запрос на исправление через GitHub(Pull request) или пишите в комментариях к видео. 
 
